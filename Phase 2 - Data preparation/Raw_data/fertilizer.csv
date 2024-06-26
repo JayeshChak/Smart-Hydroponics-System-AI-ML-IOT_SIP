@@ -1,0 +1,209 @@
+fertilizer_name,type,ph,ec,nitrogen,phosphorus,potassium,calcium,magnesium,sulfur,copper,chlorine,boron,iron,zinc,manganese,molybdenum,nickel,cobalt,sodium,toxicity,temperature,solubility,role,remark
+acetic acid,ph regulator,3,0.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,30, highly," ""Reduces soil pH and improves nutrient availability""",Dilute to 2-5% solutionand avoid contact with eyes/skin
+iron iii chloride,inorganic,3,0.02,0,0,0,0,0,0,0,0,0,210000,0,0,0,0,0,0, neutral,50, highly," ""Provides iron for enzyme function""",Soluble iron sourceand can be corrosiveand handle with care
+abscisic acid,growth regulator,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,25, low," ""Regulates plant growth and stress response""",Wear glovesand maskand dilute well for foliar application
+canola meal,organic,4,0.03,60000,5000,45000,7000,200,10000,2,0,20,20,150,5,0.3,0.4,0.1,50, low,35, insoluble," ""Adds organic matter and nutrients to soil""",Nitrogen sourceand slow-releaseand till into soil before planting
+crab meal,organic,4,0,60000,4000,10000,150000,3000,5000,7,0,5,100,0,3,0,1.1,0.1,10, low,35, low," ""Source of chitin and nutrients""",Slow-release source of chitin and nutrientsand beneficial for soil microbes
+karanja cake,organic,4,0.03,30000,3000,30000,2000,100,0,1,0,20,10,0,2,0.1,0,0.1,20, low,35, low," ""Adds nutrients and organic matter""",Neem seed cakeand organic insect repellentand follow label instructions
+epsom salt,ec regulator,4,0.02,0,0,0,0,99600,130000,0,0,0,0,0,0,0,0,0,0, neutral,50, highly," ""Provides magnesium and sulfur""",Magnesium sulfateand source of magnesiumand follow label rates to avoid toxicity
+vermiculite,organic,4,0.02,0,0,0,0,0,0,2,0,0,0,0,5,0,0,0,0, neutral,50, insoluble," ""Improves soil aeration and water retention""",Inert mineraland improves drainage and aeration
+humic acid,organic,4,0.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,40, low," ""Enhances nutrient uptake and soil health""",Soil amendmentand improves soil structure and nutrient holding capacity
+iron phosphate,inorganic,4,0.03,0,0,0,0,0,0,0,0,0,150000,0,0,0,0,0,0, neutral,50, low," ""Provides iron and phosphorus""",Insoluble in waterand slow-release iron source
+brassinosteroids,growth regulator,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,25, low," ""Promotes overall plant growth and health""",Plant hormoneand research application rates for specific crops
+urea,inorganic,4.5,0.03,460000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, dangerous,45, highly," ""High nitrogen source for rapid growth""",Synthetic organic nitrogen fertilizerand readily available nitrogen sourceand follow label rates
+magnesium nitrate,inorganic,4.5,0,110000,0,0,0,110000,0,0,0,0,0,0,0,0,0,0,0, high,45, highly," ""Provides magnesium and nitrogen""",Soluble source of magnesium and nitrogenand follow label rates
+peruvian seabird guano,organic,4.5,0,120000,32000,10000,1000,0,10000,2,0,20,300,0,0,0.1,0,0.2,0, high,35, medium," ""High nitrogen and phosphorus for growth""",Very high in nutrientsand wear glovesand use well-aged manure
+iron nitrate,inorganic,4.5,0.02,0,0,0,0,0,0,0,0,0,190000,0,0,0,0,0,0, low,40, highly," ""Supplies iron and nitrogen""",Soluble iron sourceand highly solubleand dilute well for foliar application
+manganese acetate,inorganic,4.5,0.02,0,0,0,0,0,0,0,0,0,0,0,210000,0,0,0,0, low,40, highly," ""Source of manganese for enzyme function""",Micronutrientand solubleand follow label rates to avoid toxicity
+manganese nitrate,inorganic,4.5,0.03,0,0,0,0,0,0,0,0,0,0,0,312000,0,0,0,0, low,40, highly," ""Provides manganese and nitrogen""",Micronutrientand solubleand follow label rates to avoid toxicity
+sodium chloride,inorganic,4.5,0,0,0,0,0,0,0,0,600000,0,0,0,0,0,0,0,0, low,50, highly," ""Source of sodium for plant health""",Table saltand can be harmful to plants in high concentrationsand use sparingly
+insect frass,organic,4.5,0.03,20000,2000,5000,5000,200,0,3,0,5,100,0,2,0.2,0,0.2,0, low,35, low," ""Adds organic matter and nutrients""",Insect droppingsand organic matter that can decompose and release nutrients
+zinc carbonate,inorganic,4.5,0.02,0,0,0,0,0,0,0,0,0,0,520000,0,0,0,0,0, low,50, low," ""Provides zinc for plant health""",Micronutrientand insoluble in waterand use as soil amendment
+boric acid,inorganic,4.5,0.02,0,0,0,0,0,0,0,0,170000,0,0,0,0,0,0,0, low,50, medium," ""Source of boron for plant health""",Boron sourceand solubleand follow label rates to avoid toxicity
+sodium hydroxide,ph regulator,4.5,0.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,50, highly," ""Raises soil pH and supplies sodium""",Lyeand strong baseand not recommended for fertilizer use
+sodium bicarbonate,ph ec regulator,4.5,0.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,50, highly," ""Lowers soil pH and supplies sodium""",Baking sodaand neutralizes soil acidityand use cautiously
+sulfuric acid,ph ec regulator,4.5,0.01,0,0,0,0,0,1000000,1,0,0,0,0,0,0,0,0,0, neutral,35, highly," ""Lowers soil pH and supplies sulfur""",Strong acidand use with extreme cautionand follow safety guidelines
+molasses,organic,4.5,0.02,0,0,30000,500,0,0,1,0,5,0,0,0,0,0,0,0, neutral,35, highly," ""Supplies sugars and micronutrients""",Carbohydrate sourceand feeds soil microbesand use diluted solution
+sugarcane molasses,organic,4.5,0,0,0,100000,0,0,0,0,0,5,0,0,0,0,0,0,0, neutral,35, highly," ""Supplies sugars and micronutrients""",Similar to molassesand carbohydrate source for soil microbesand dilute before use
+monopotassium phosphate,inorganic,4.5,0.02,0,23000,340000,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,45, highly," ""Source of potassium and phosphorus""",Mureate of Potashand good source of K with some Pand follow label rates
+potassium thiosulfate,inorganic,4.5,0.02,0,0,370000,0,0,270000,0,0,0,0,0,0,0,0,0,0, neutral,45, highly," ""Supplies potassium and sulfur""",Soluble thiosulfate sourceand may improve sulfur uptakeand research application rates
+sodium phosphate,inorganic,4.5,0.03,0,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,50, highly," ""Supplies sodium and phosphorus""",Soluble source of phosphorusand can be high in sodiumand use with care
+sodium sulfate,inorganic,4.5,0.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,142000, neutral,50, highly," ""Source of sodium and sulfur""",Glauber's saltand can improve soil drainageand use cautiously
+magnesium sulfate,ec regulator,4.5,0.02,0,0,0,0,99600,130000,0,0,0,0,0,0,0,0,0,0, neutral,50, highly," ""Provides magnesium and sulfur""",Epsom saltand source of magnesiumand follow label rates to avoid toxicity
+potassium carbonate,ec regulator,4.5,0.02,0,0,561000,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,50, highly," ""Provides potassium and improves soil""",Pottashand soluble potassium sourceand can raise soil pH
+iron oxide,inorganic,4.5,0.02,0,0,0,0,0,0,0,0,0,200000,0,0,0,0,0,0, neutral,50, insoluble," ""Source of iron for plant growth""",Insoluble in waterand use as soil amendment
+manganese oxide,inorganic,4.5,0,0,0,0,0,0,0,0,0,0,0,0,550000,0,0,0,0, neutral,50, insoluble," ""Supplies manganese for plant processes""",Insoluble in waterand use as soil amendment
+nickel oxide,inorganic,4.5,0.02,0,0,0,0,0,0,0,0,0,0,0,0,0,4.1,0,0, neutral,50, insoluble," ""Supplies nickel for enzyme function""",Insoluble in waterand use as soil amendment
+gypsum,inorganic,4.5,0.03,0,0,0,230000,0,180000,0,0,0,0,0,0,0,0,0,0, neutral,50, low," ""Improves soil structure and provides calcium""",Calcium sulfateand improves soil drainageand can be used as calcium source
+magnesium hydroxide,inorganic,4.5,0.01,0,0,0,0,415000,0,0,0,0,0,0,0,0,0,0,0, neutral,50, low," ""Supplies magnesium and raises soil pH""",Milk of magnesiaand not recommended for fertilizer use
+nickel phosphate,inorganic,4.5,0,0,2000,0,0,0,0,0,0,0,0,0,0,0,2,0,0, neutral,50, low," ""Provides nickel and phosphorus""",Insoluble in waterand slow-release nickel source
+zinc phosphate,inorganic,4.5,0.02,0,2000,0,0,0,0,0,0,0,0,250000,0,0,0,0,0, neutral,50, low," ""Provides zinc and phosphorus""",Micronutrientand insoluble in waterand slow-release zinc source
+strigolactones,growth regulator,4.5,0.01,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0, neutral,25, low," ""Regulates plant growth and symbiosis""",Plant signaling compoundand research application rates for specific effects
+silicic acid,ph regulator,4.5,0.02,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0, neutral,50, medium," ""Provides silicon for plant strength""",Soluble form of siliconand may strengthen plant cell wallsand research application rates
+ammonium chloride,inorganic,5,0.07,260000,0,0,0,0,0,0,663000,0,0,0,0,0,0,0,0, high,45, highly," ""Supplies nitrogen and chlorine for plant health""",Solubleand use with cautionand can acidify soil
+monoammonium phosphate,inorganic,5,0,120000,52000,0,0,0,0,0,0,0,0,0,0,0,0,0,0, high,45, highly," ""Provides nitrogen and phosphorus""",MAPand good source of P with some Nand follow label rates
+compost tea,organic,5,0.01,1000,1500,4000,500,200,0,1,0,1,100,20,5,0.5,0.7,0.2,5, low,35, highly," ""Microbial boost and nutrient supply""",Liquid nutrient supplementand dilute before useand beneficial for soil microbes
+copper chelate,inorganic,5,0,0,0,0,0,0,0,140000,0,0,0,0,0,0,0,0,0, low,40, highly," ""Easily absorbed copper source""",Soluble copper sourceand lessens soil bindingand good for correcting deficiencies
+molybdenum nitrate,inorganic,5,0.03,0,0,0,0,0,0,0,0,0,0,0,0,630000,0,0,0, low,40, highly," ""Provides molybdenum and nitrogen""",Micronutrientand solubleand follow label rates to avoid toxicity
+zinc sulfate,inorganic,5,0.02,0,0,0,0,0,180000,0,0,0,0,360000,0,0,0,0,0, low,50, highly," ""Source of zinc for enzyme function""",Micronutrientand solubleand most common zinc fertilizerand follow label rates
+earthworm humus,organic,5,0,10000,2000,2000,5000,200,0,1,0,1,500,0,5,0.3,0.5,0.4,10, low,35, low," ""Improves soil structure and fertility""",Soil amendmentand improves soil structure and fertility
+seaweed extract,organic,5,0.02,10000,2000,150000,5000,0,0,0,0,20,50,0,2,0.1,0,0.3,0, mild,35, low," ""Supplies trace minerals and growth hormones""",Liquid seaweed concentrateand source of micronutrients and growth stimulantsand dilute before use
+phosphoric acid,ph ec regulator,5,0.01,0,32000,0,0,0,0,0,0,0,0,0,0,,0,0,0, neutral,40, highly," ""Supplies phosphorus and lowers soil pH""",Strong acidand use with extreme cautionand follow safety guidelines
+boric acid ammonium,inorganic,5,0.02,110000,0,0,0,0,0,0,0,170000,0,0,0,0,0,0,0, neutral,40, highly," ""Supplies boron and nitrogen""",Soluble boron sourceand use with cautionand can damage foliage
+sodium acetate,inorganic,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,45, highly," ""Source of sodium for plant processes""",Soluble sodium sourceand can be harmful to some plantsand use with caution
+peat moss,organic,5,0.02,0,0,0,500,200,0,0,0,1,20,0,0,0,0,0,0, neutral,35, low," ""Improves soil structure and water retention""",Soil amendmentand improves moisture retention and aerationand adjust pH if needed
+cytokinins,growth regulator,5,0.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,25, low," ""Promotes cell division and growth""",Plant hormoneand research application rates for specific cropsand can be potent
+polyamines,growth regulator,5,0.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,30, low," ""Promotes plant growth and stress tolerance""",Improves plant stress toleranceand research application rates for specific crops
+ammonium sulfate,inorganic,5.2,0.08,210000,0,0,0,0,240000,0,0,0,0,0,0,0,0,0,0, high,45, highly," ""Supplies nitrogen and sulfur for plant growth""",Acidifying fertilizerand use with caution around sensitive plants
+ammonium nitrate,inorganic,5.5,0.08,340000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, dangerous,50, highly," ""Fast-release nitrogen source for growth""",Highly solubleand use in moderationand can be caustic
+sodium nitrate,inorganic,5.5,0.01,160000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,161000, high,50, highly," ""Provides sodium and nitrogen""",Chilean saltpeterand source of sodium and nitrogenand use with caution due to high salt content
+borax,inorganic,5.5,0,0,0,0,0,0,0,0,0,110000,0,0,0,0,0,0,0, low,45, highly," ""Supplies boron for cell wall development""",Boron sourceand solubleand follow label rates to avoid toxicity
+copper sulfate,inorganic,5.5,0.02,0,0,0,0,0,200000,250000,0,0,0,0,0,0,0,0,0, low,50, highly," ""Provides copper for enzyme activity""",Fungicideand solubleand follow label rates to avoid phytotoxicity
+molybdenum sulfate,inorganic,5.5,0.03,0,0,0,0,0,0,0,0,0,0,0,0,530000,0,0,0, low,50, highly," ""Supplies molybdenum for enzyme activity""",Micronutrientand solubleand follow label rates to avoid toxicity
+nickel acetate,inorganic,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.5,0,0, low,40, highly," ""Source of nickel for enzyme function""",Micronutrientand solubleand follow label rates to avoid toxicity
+nickel nitrate,inorganic,5.5,0.03,0,0,0,0,0,0,0,0,0,0,0,0,0,3.5,0,0, low,40, highly," ""Provides nickel and nitrogen""",Micronutrientand solubleand follow label rates to avoid toxicity
+zinc edta,inorganic,5.5,0.03,0,0,0,0,0,0,0,0,0,0,150000,0,0,0,0,0, low,40, highly," ""Stable zinc source for plants""",Chelated zincand improves micronutrient uptakeand follow label rates
+zinc nitrate,inorganic,5.5,0.02,0,0,0,0,0,0,0,0,0,0,230000,0,0,0,0,0, low,40, highly," ""Provides zinc and nitrogen""",Micronutrientand solubleand follow label rates to avoid toxicity
+soybean meal,organic,5.5,0,70000,5000,28000,2000,200,0,0,0,10,50,20,5,0.2,0,0.2,10, low,35, insoluble," ""Adds organic matter and nitrogen""",Organic nitrogen sourceand slow-releaseand use moderately due to high nitrogen content
+kelp meal,organic,5.5,0.03,10000,2000,8000,7000,500,10000,1,0,20,500,0,5,0.3,0,0.2,5, low,35, low," ""Supplies trace minerals and growth hormones""",Seaweed mealand source of micronutrients and organic matter
+manganese carbonate,inorganic,5.5,0.02,0,0,0,0,0,0,0,0,0,0,0,480000,0,0,0,0, low,50, low," ""Provides manganese for plant health""",Micronutrientand insoluble in waterand use as soil amendment
+nickel carbonate,inorganic,5.5,0.02,0,0,0,0,0,0,0,0,0,0,0,0,0,1.2,0,0, low,50, low," ""Provides nickel for plant health""",Micronutrientand insoluble in waterand use as soil amendment
+nickel hydroxide,inorganic,5.5,0.03,0,0,0,0,0,0,0,0,0,0,0,0,0,1.5,0,0, low,50, low," ""Source of nickel for growth processes""",Insoluble in waterand use as soil amendment
+fish emulsion,organic,5.5,0.01,50000,10000,5000,5000,150,10000,2,0,5,500,10,2,0,0,0.2,0, mild,35, highly," ""High nitrogen and nutrient content""",Liquid organic fertilizerand dilute before useand follow label rates
+sodium carbonate,ph ec regulator,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,50, highly," ""Supplies sodium and raises soil pH""",Soda ashand raises soil pHand not recommended for most plants
+earthworm castings tea,organic,5.5,0,500,1000,1000,2500,200,500,1,0,1,100,0,5,0.3,0.2,0.3,10, neutral,35, highly," ""Nutrient-rich organic fertilizer""",Liquid nutrient supplementand dilute before useand rich in microbes
+granubor,inorganic,5.5,0,0,0,0,0,0,0,0,0,200000,0,0,0,0,0,0,0, neutral,45, highly," ""Provides boron for plant growth""",Granular boron fertilizerand solubleand follow label rates to avoid toxicity
+molybdenum chelate,inorganic,5.5,0.02,0,0,0,0,0,0,0,0,0,0,0,0,700000,0,0,0, neutral,40, highly," ""Easily absorbed molybdenum source""",Soluble molybdenum sourceand improves micronutrient uptakeand research application rates
+potassium hypochlorite,inorganic,5.5,0.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,50, highly," ""Provides potassium and controls pathogens""",Bleachand not recommended for fertilizer use
+potassium polyphosphate,inorganic,5.5,0.03,0,24000,230000,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,45, highly," ""Provides sustained potassium release""",Slow-release source of potassiumand follow label rates
+sodium hypochlorite,inorganic,5.5,0.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,50, highly," ""Provides sodium and controls pathogens""",Bleachand not recommended for fertilizer use
+sodium thiosulfate,inorganic,5.5,0.03,0,0,0,0,0,240000,0,0,0,0,0,0,0,0,0,157000, neutral,45, highly," ""Supplies sodium and sulfur""",Soluble thiosulfate sourceand may improve sulfur uptakeand research application rates
+solubor,inorganic,5.5,0.03,0,0,0,0,0,0,0,0,200000,0,0,0,0,0,0,0, neutral,45, highly," ""Provides boron for plant growth""",Soluble boron fertilizerand follow label rates to avoid plant damage
+nitric acid,ec regulator,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,35, highly," ""Lowers soil pH and supplies nitrogen""",Strong acidand not recommended for fertilizer use
+rice hulls,organic,5.5,0.03,0,0,0,500,0,0,0,0,0,10,0,0,0,0,0,0, neutral,35, insoluble," ""Improves soil structure and aeration""",Organic matterand slow-release nutrientsand improves soil aeration
+zeolite,mixed,5.5,0,0,0,0,0,0,0,3,0,0,20,0,5,0,0,0,0, neutral,50, insoluble," ""Enhances soil nutrient retention""",Hydrated aluminosilicate mineraland improves soil drainage and cation exchange capacity
+granite meal,inorganic,5.5,0,0,0,0,0,0,0,1,0,0,50,0,0,0,0,0.2,0, neutral,50, insoluble," ""Adds trace minerals to soil""",Slow-release source of mineralsand improves soil drainage and aeration
+silicate rock dust,inorganic,5.5,0.01,0,0,0,0,200000,0,0,0,0,2000,0,2,0,0,0.2,0, neutral,50, insoluble," ""Adds trace minerals to soil""",Slow-release source of silicon and other minerals
+mycorrhizal inoculants,organic,5.5,0.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,35, low," ""Enhances nutrient uptake through fungi""",Beneficial fungiand promotes nutrient uptakeand follow instructions
+magnesium phosphate,inorganic,5.5,0.02,0,2000,0,0,200000,0,0,0,0,0,0,0,0,0,0,0, neutral,50, low," ""Provides magnesium and phosphorus""",Insoluble in waterand slow-release magnesium source
+manganese hydroxide,inorganic,5.5,0.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,50, low," ""Source of manganese for plant growth""",Insoluble in waterand use as soil amendment
+molybdenum phosphate,inorganic,5.5,0.02,0,1000,0,0,0,0,0,0,0,0,0,0,300000,0,0,0, neutral,50, low," ""Provides molybdenum and phosphorus""",Insoluble in waterand slow-release molybdenum source
+boron oxide,inorganic,5.5,0.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,50, medium," ""Supplies boron for growth processes""",Very solubleand use extreme caution due to high toxicity
+magnesium gluconate,inorganic,5.5,0.03,0,0,0,0,110000,0,0,0,0,0,0,0,0,0,0,0, neutral,40, medium," ""Easily absorbed magnesium for plant health""",Soluble magnesium sourceand good for correcting deficiencies
+molybdenum carbonate,inorganic,5.5,0.03,0,0,0,0,0,0,0,0,0,0,0,0,390000,0,0,0, neutral,50, medium," ""Source of molybdenum for enzyme function""",Micronutrientand insoluble in waterand use as soil amendment
+zinc citrate,inorganic,5.5,0.03,0,0,0,0,0,0,0,0,0,0,310000,0,0,0,0,0, neutral,40, medium," ""Easily absorbed zinc source""",Chelated zincand improves micronutrient uptakeand research application rates
+zinc gluconate,inorganic,5.5,0,0,0,0,0,0,0,0,0,0,0,140000,0,0,0,0,0, neutral,40, medium," ""Easily absorbed zinc for plants""",Micronutrientand solubleand follow label rates to avoid toxicity
+blood and bone meal mix,organic,6,0.03,80000,10000,2000,2500,100,10000,2,0,5,300,90,0,0.1,0.8,0.5,0, high,35, low," ""High nitrogen and phosphorus for strong growth""",Organic source of Nand Pand and calciumand follow label rates
+feather meal,organic,6,0.01,120000,0,0,0,0,0,1,0,5,0,0,0,0,0.4,0.1,0, high,35, low," ""Slow-release nitrogen source""",Slow-release nitrogen sourceand use moderately due to high nitrogen content
+cobalt chloride,inorganic,6,0.02,0,0,0,0,0,0,0,481000,0,0,0,0,0,0,256,0, low,50, highly," ""Supplies cobalt for plant metabolism""",Micronutrientand solubleand follow label rates to avoid toxicity
+ferrous sulfate,inorganic,6,0.01,0,0,0,0,0,200000,0,0,0,200000,0,0,0,0,0,0, low,50, highly," ""Supplies iron for chlorophyll production""",Iron sulfateand source of ironand good for correcting deficiencies
+manganese sulfate,inorganic,6,0,0,0,0,0,0,200000,0,0,0,0,0,310000,0,0,0,0, low,50, highly," ""Source of manganese for enzyme function""",Micronutrientand solubleand follow label rates to avoid toxicity
+nickel sulfate,inorganic,6,0,0,0,0,0,0,180000,0,0,0,0,0,0,0,5,0,0, low,50, highly," ""Source of nickel for enzyme activity""",Micronutrientand solubleand follow label rates to avoid toxicity
+cottonseed meal,organic,6,0.02,60000,6000,40000,1000,200,0,5,0,20,50,20,5,0.1,0.9,0.2,20, low,35, insoluble," ""Adds organic matter and nitrogen""",Nitrogen sourceand slow-releaseand use moderately due to gossypol content
+copper carbonate,inorganic,6,0.01,0,0,0,0,0,0,310000,0,0,0,0,0,0,0,0,0, low,50, low," ""Provides copper for enzyme function""",Fungicideand insoluble in waterand use as soil drench
+iron citrate,inorganic,6,0.04,0,0,0,0,0,0,0,0,0,150000,0,0,0,0,0,0, low,40, medium," ""Supplies iron for plant health""",Chelated ironand improves micronutrient uptakeand research application rates
+citric acid,ph ec regulator,6,0.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,35, highly," ""Lowers soil pH and improves nutrient uptake""",Lowers soil pHand use cautiouslyand can damage plants in high concentrations
+copper fulvate,inorganic,6,0.04,0,0,0,0,0,0,100000,0,0,0,0,0,0,0,0,0, neutral,35, highly," ""Enhances nutrient uptake""",Humic acid complexed copperand improves micronutrient uptakeand research application rates
+fertibor,inorganic,6,0,0,0,0,0,0,0,0,0,200000,0,0,0,0,0,0,0, neutral,40, highly," ""Provides boron for cell wall strength""",Boron fertilizerand solubleand follow label rates to avoid plant damage
+magnesium silicate,inorganic,6,0.02,0,0,0,0,200000,0,0,0,0,0,0,0,0,0,0,0, neutral,50, insoluble," ""Supplies magnesium and improves soil""",Scratch into soil surface and light application
+auxins,growth regulator,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,25, low," ""Promotes root and shoot development""",Plant hormoneand use with extreme caution due to potency
+jasmonic acid,growth regulator,6,0.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,25, low," ""Regulates plant stress and defense""",Plant signaling compoundand research application rates for specific effects
+cobalt citrate,inorganic,6,0.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0, neutral,40, medium," ""Source of cobalt for plant health""",Chelated cobaltand improves micronutrient uptakeand research application rates
+manganese citrate,inorganic,6,0.02,0,0,0,0,0,0,0,0,0,0,0,214000,0,0,0,0, neutral,40, medium," ""Easily absorbed manganese source""",Chelated manganeseand improves micronutrient uptakeand research application rates
+nickel citrate,inorganic,6,0.02,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0, neutral,40, medium," ""Easily absorbed nickel source""",Chelated nickeland improves micronutrient uptakeand research application rates
+ammonium phosphate,inorganic,6.2,0.06,110000,23000,0,0,0,0,0,0,0,0,0,0,0,0,0,0, high,45, medium," ""Provides nitrogen and phosphorus for root development""",Good source of N and Pand follow label rates
+alfalfa meal tea,Organic,6.2,0,250,400,5000,5000,40,1000,1,0,2,10,100,1,0.04,0.1,0.1,5, neutral,35, highly," ""Provides a quick nutrient boost to plants""",Steep 1-2 lbs/gallon for a dayand dilute before use
+boric acid potassium,inorganic,6.2,0.02,0,0,0,0,0,0,0,0,170000,0,0,0,0,0,0,0, neutral,40, highly," ""Provides boron and potassium""",Soluble boron sourceand use with cautionand can damage foliage
+calcium citrate,inorganic,6.2,0,0,0,0,210000,0,0,0,0,0,0,0,0,0,0,0,0, neutral,40, medium," ""Source of calcium for plant health""",Chelated calciumand lessens soil pH impactand good for foliar application
+ammonium molybdate,inorganic,6.5,0.07,110000,0,0,0,0,0,0,0,0,0,0,0,540000,0,0,0, high,35, highly," ""Source of molybdenum for enzyme function""",Micronutrientand dilute welland foliar or soil application
+ammonium phosphite,inorganic,6.5,0.06,110000,18000,0,0,0,0,0,0,0,0,0,0,0,0,0,0, high,40, highly," ""Supplies phosphorus and aids disease resistance""",Fungal disease controland follow label rates for mixing
+diammonium phosphate,inorganic,6.5,0,180000,45000,0,0,0,0,0,0,0,0,0,0,0,0,0,0, high,45, highly," ""Supplies nitrogen and phosphorus""",DAPand good source of N and Pand follow label rates
+potassium nitrate,inorganic,6.5,0.02,130000,0,380000,0,0,0,0,0,0,0,0,0,0,0,0,0, high,50, highly," ""Provides potassium and nitrogen""",Saltpeterand soluble source of K and Nand follow label rates
+blood meal,organic,6.5,0.02,120000,0,0,0,0,0,3,0,5,0,0,0,0,0.6,0.2,0, high,35, low," ""Rich nitrogen source for rapid growth""",High in nitrogenand use moderatelyand can attract pests
+copper nitrate,inorganic,6.5,0.03,0,0,0,0,0,0,370000,0,0,0,0,0,0,0,0,0, low,40, highly," ""Provides copper and nitrogen""",Soluble copper sourceand highly solubleand dilute well for foliar application
+manganese chloride,inorganic,6.5,0.01,0,0,0,0,0,0,0,0,0,0,0,268000,0,0,0,0, low,50, highly," ""Supplies manganese for enzyme activity""",Micronutrientand solubleand follow label rates to avoid toxicity
+nickel chloride,inorganic,6.5,0.02,0,0,0,0,0,0,0,0,0,0,0,0,0,5.1,0,0, low,50, highly," ""Supplies nickel for enzyme processes""",Micronutrientand solubleand follow label rates to avoid toxicity
+zinc acetate,inorganic,6.5,0,0,0,0,0,0,0,1,0,0,0,300000,0,0,0,0,0, low,40, highly," ""Source of zinc for enzyme function""",Micronutrientand solubleand follow label rates to avoid toxicity
+alfalfa meal,Organic,6.5,0,25000,800,25000,22000,200,5000,2,0,20,50,70,2,0.2,1,0.2,50, low,35, insoluble," ""Enhances soil organic matter and nutrient content""",Broadcast before planting or till into soil
+copper hydroxide,inorganic,6.5,0.04,0,0,0,0,0,0,400000,0,0,0,0,0,0,0,0,0, low,50, low," ""Source of copper for enzyme processes""",Bordeaux mixand fungicideand follow label rates to avoid phytotoxicity
+green manure,organic,6.5,0,25000,4000,2500,5000,0,0,2,0,10,30,0,2,0.2,0,0.1,0, mild,35, low," ""Improves soil organic matter and nutrients""",Cover cropand adds nitrogen to soil when tilled under
+coconut water,organic,6.5,0.03,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0, neutral,35, highly," ""Contains growth hormones and nutrients""",Plant stimulantand dilute before useand research application rates
+calcium acetate,inorganic,6.5,0.02,0,0,0,253000,0,0,0,0,0,0,0,0,0,0,0,0, neutral,40, highly," ""Provides calcium and reduces soil pH""",Soluble calcium sourceand use with cautionand can raise soil pH
+calcium chloride,inorganic,6.5,0.04,0,0,0,273000,0,0,0,640000,0,0,0,0,0,0,0,0, neutral,50, highly," ""Provides calcium and improves soil structure""",Soluble calcium sourceand can be corrosiveand handle with care
+hydrochloric acid,inorganic,6.5,0.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,35, highly," ""Lowers soil pH""",Very strong acidand not recommended for fertilizer use
+sodium silicate,inorganic,6.5,0.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,276000, neutral,50, highly," ""Provides sodium and silicon""",Soluble silicate sourceand may improve plant stress toleranceand research application rates
+betaines,growth regulator,6.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,30, highly," ""Enhances plant stress tolerance""",Osmoprotectantand research application rates for specific crops
+basalt dust,inorganic,6.5,0,0,0,0,0,8000,0,1,0,200,2000,300,5,0,0.5,0.2,0, neutral,50, insoluble," ""Improves soil structure and mineral content""",Volcanic rock dustand slow-release source of minerals
+calcium silicate,inorganic,6.5,0,0,0,0,200000,0,0,0,0,0,0,0,0,0,0,0,0, neutral,50, insoluble," ""Improves soil structure and provides calcium""",Provides calcium and siliconand slow-releaseand good for soil health
+iron silicate,inorganic,6.5,0.02,0,0,0,0,0,0,0,0,0,200000,0,0,0,0,0,0, neutral,50, insoluble," ""Supplies iron and improves soil""",Scratch into soil surface and light application
+calcium sulfate,inorganic,6.5,0,0,0,0,230000,0,180000,0,0,0,0,0,0,0,0,0,0, neutral,50, low," ""Supplies calcium and sulfur for growth""",Gypsumand improves soil drainageand can be used as calcium source
+molybdenum oxide,inorganic,6.5,0.03,0,0,0,0,0,0,0,0,0,0,0,0,660000,0,0,0, neutral,50, low," ""Source of molybdenum for plant growth""",Insoluble in waterand use as soil amendment
+zinc oxide,inorganic,6.5,0.03,0,0,0,0,0,0,0,0,0,0,490000,0,0,0,0,0, neutral,50, low," ""Source of zinc for plant growth""",Micronutrientand insoluble in waterand use as soil amendment
+gibberellins,growth regulator,6.5,0.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,25, low," ""Promotes stem elongation and growth""",Plant hormoneand promotes growthand research application rates for specific crops
+calcium lactate,inorganic,6.5,0,0,0,0,130000,0,0,0,0,0,0,0,0,0,0,0,0, neutral,40, medium," ""Calcium source that is easily absorbed""",Chelated calciumand lessens soil pH impactand good for foliar application
+iron gluconate,inorganic,6.5,0.02,0,0,0,0,0,0,0,0,0,120000,0,0,0,0,0,0, neutral,40, medium," ""Easily absorbed iron for chlorophyll""",Soluble iron sourceand good for correcting deficiencies
+manganese gluconate,inorganic,6.5,0,0,0,0,0,0,0,0,0,0,0,0,144000,0,0,0,0, neutral,40, medium," ""Easily absorbed manganese for plants""",Soluble manganese sourceand good for correcting deficiencies
+calcium nitrate,inorganic,6.8,0.02,150000,0,0,170000,0,0,0,0,0,0,0,0,0,0,0,0, high,45, highly," ""Fast-acting calcium and nitrogen source""",Water-soluble source of N and Caand follow label rates
+iron edta,inorganic,6.8,0.04,0,0,0,0,0,0,0,0,0,130000,0,0,0,0,0,0, low,40, highly," ""Stable iron source for plants""",Chelated ironand improves micronutrient uptakeand follow label rates
+bone meal,organic,6.8,0.01,20000,20000,0,240000,0,0,1,0,5,0,60,0,0,0.2,0.1,0, mild,35, low," ""Provides phosphorus and calcium for roots""",Slow-release phosphorus sourceand good for root development
+vermicompost tea,organic,6.8,0,500,1500,3000,2500,200,500,0,0,1,100,0,2,0.2,0,0.2,5, neutral,35, highly," ""Nutrient-rich organic fertilizer""",Liquid nutrient supplementand dilute before useand rich in microbes and nutrients
+boron nitrate,inorganic,6.8,0.01,0,0,0,0,0,0,0,0,170000,0,0,0,0,0,0,0, neutral,40, highly," ""Source of boron for enzyme function""",Soluble boron sourceand highly solubleand dilute well for foliar application
+magnesium acetate,inorganic,6.8,0.03,0,0,0,0,110000,0,0,0,0,0,0,0,0,0,0,0, neutral,40, highly," ""Provides magnesium for chlorophyll production""",Soluble magnesium sourceand use with cautionand can raise soil pH
+potassium phosphate,inorganic,6.8,0.02,0,23000,230000,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,45, highly," ""Source of potassium and phosphorus""",Soluble source of K and Pand good for immediate nutrient needs
+potassium sulfate,ec regulator,6.8,0.03,0,0,430000,0,0,180000,0,0,0,0,0,0,0,0,0,0, neutral,50, highly," ""Provides potassium and sulfur""",Sulfate of Potashand soluble source of K and sulfurand follow label rates
+aluminum silicate,inorganic,6.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,50, insoluble," ""Improves soil structure and water retention""",Scratch into soil surfaceand light application rates
+azomite,inorganic,6.8,0,0,0,0,10000,10000,0,1,0,2000,5000,6000,10,20,2,0.1,0, neutral,50, insoluble," ""Supplies trace minerals for soil health""",Volcanic rock dustand slow-release source of minerals
+calcium phosphate,inorganic,6.8,0,0,18000,0,290000,0,0,0,0,0,0,0,0,0,0,0,0, neutral,45, low," ""Provides calcium and phosphorus""",Rock phosphateand slow-release phosphorus sourceand may require soil amendments
+manganese phosphate,inorganic,6.8,0.01,0,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,50, low," ""Provides manganese and phosphorus""",Insoluble in waterand slow-release manganese source
+silica gel,inorganic,6.8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0, neutral,50, low," ""Improves soil structure and water retention""",Inert desiccantand not recommended for fertilizer use
+calcium molybdate,inorganic,6.8,0.05,0,0,0,120000,0,0,0,0,0,0,0,0,52000,0,0,0, neutral,40, medium," ""Supplies calcium and molybdenum""",Micronutrientand dilute well for foliar or soil application
+ammonium polyphosphate,inorganic,7,0.07,100000,24000,0,0,0,0,0,0,0,0,0,0,0,0,0,0, high,45, highly," ""Provides sustained phosphorus release""",Slow-release fertilizerand incorporate into soil
+bat guano,Organic,7,0,100000,15000,15000,1000,100,10000,3,0,20,200,120,0,0.5,0.3,0.3,0, high,35, medium," ""High nitrogen and phosphorus for growth""",Very high in nutrientsand wear glovesand use well-aged manure
+cobalt acetate,inorganic,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,239,0, low,40, highly," ""Source of cobalt for nitrogen fixation""",Micronutrientand research application rates for specific crops
+cobalt sulfate,inorganic,7,0.03,0,0,0,0,0,180000,0,0,0,0,0,0,0,0,210,0, low,50, highly," ""Provides cobalt for nitrogen metabolism""",Micronutrientand solubleand follow label rates to avoid toxicity
+copper chloride,inorganic,7,0.01,0,0,0,0,0,0,370000,372000,0,0,0,0,0,0,0,0, low,50, highly," ""Supplies copper for plant health""",Soluble copper sourceand can be corrosiveand handle with care
+copper edta,inorganic,7,0.02,0,0,0,0,0,0,150000,0,0,0,0,0,0,0,0,0, low,40, highly," ""Stable copper source for plants""",Chelated copperand improves micronutrient uptakeand follow label rates
+iron chelate,inorganic,7,0.03,0,0,0,0,0,0,0,0,0,100000,0,0,0,0,0,0, low,40, highly," ""Easily absorbed iron source""",Soluble iron sourceand lessens soil bindingand good for correcting deficiencies
+iron sulfate,inorganic,7,0.03,0,0,0,0,0,200000,0,0,0,200000,0,0,0,0,0,0, low,50, highly," ""Provides iron for chlorophyll production""",Iron sulfateand most common iron fertilizerand follow label rates
+cobalt carbonate,inorganic,7,0.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0, low,50, low," ""Provides cobalt for enzyme processes""",Micronutrientand insoluble in waterand use as soil amendment
+bat guano tea,Organic,7,0,1000,7500,7500,250,20,5000,1.5,0,2,100,80,0,0.1,0.03,0.1,0, mild,35, highly," ""Quick-release nutrients from bat guano""",Steep 1 cup/gallon for a dayand dilute before use
+calcium hypochlorite,inorganic,7,0.03,0,0,0,170000,0,0,0,0,0,0,0,0,0,0,0,0, neutral,50, highly," ""Provides calcium and controls soil pathogens""",Swimming pool chlorineand not recommended for fertilizer use
+cobalt chelate,inorganic,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0, neutral,40, highly," ""Easily absorbed cobalt source""",Soluble or chelated form and follow label rates for foliar or soil application
+magnesium chloride,inorganic,7,0.03,0,0,0,0,120000,0,0,740000,0,0,0,0,0,0,0,0, neutral,50, highly," ""Provides magnesium and improves soil structure""",Soluble magnesium sourceand can be corrosiveand handle with care
+potassium acetate,inorganic,7,0.02,0,0,40000,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,45, highly," ""Provides potassium for plant health""",Soluble potassium sourceand use with cautionand can raise soil pH
+potassium bicarbonate,inorganic,7,0.02,0,0,498000,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,50, highly," ""Supplies potassium and raises soil pH""",Soluble potassium sourceand fungicideand follow label rates
+potassium chloride,inorganic,7,0.02,0,0,524000,0,0,0,0,476000,0,0,0,0,0,0,0,0, neutral,50, highly," ""Source of potassium for plant growth""",Muriate of Potashand most common potassium fertilizerand follow label rates
+coconut coir,organic,7,0.02,0,0,0,100,100,0,0,0,0,10,20,0,0,0,0,0, neutral,35, insoluble," ""Improves soil structure and water retention""",Soil amendmentand improves drainage and aeration
+azadirachtin,Organic,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,30, low," ""Natural insecticide for pest control""",Neem oil extractand organic insecticideand follow label instructions
+magnesium carbonate,inorganic,7,0.03,0,0,0,0,288000,0,0,0,0,0,0,0,0,0,0,0, neutral,50, low," ""Supplies magnesium and raises soil pH""",Dolomiteand source of magnesium and calciumand follow soil test
+salicylic acid,inorganic,7,0.03,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0, neutral,30, low," ""Enhances plant defense mechanisms""",Plant signaling compoundand research application rates for specific effects
+copper gluconate,inorganic,7,0.03,0,0,0,0,0,0,110000,0,0,0,0,0,0,0,0,0, neutral,40, medium," ""Easily absorbed copper for plants""",Soluble copper sourceand good for correcting deficiencies
+ammonium tetraborate,inorganic,7.2,0.07,130000,0,0,0,0,0,0,0,110000,0,0,0,0,0,0,0, neutral,40, highly," ""Source of boron for cell wall strength""",Boron sourceand highly solubleand dilute well for foliar application
+ammonium thiosulfate,inorganic,7.5,0.07,210000,0,0,0,0,260000,0,0,0,0,0,0,0,0,0,0, high,45, highly," ""Supplies sulfur and improves soil pH""",Sulfur sourceand solubleand use for sulfur-deficient crops
+calcium ammonium nitrate,inorganic,7.5,0.07,270000,0,0,200000,0,0,0,0,0,0,0,0,0,0,0,0, high,45, highly," ""Balanced calcium and nitrogen source""",Water-soluble source of N and Caand follow label rates
+nickel edta,inorganic,7.5,0.02,0,0,0,0,0,0,0,0,0,0,0,0,0,2.8,0,0, low,40, highly," ""Stable nickel source for plants""",Chelated nickeland improves micronutrient uptakeand follow label rates
+neem cake,organic,7.5,0.02,30000,2000,17000,2000,100,5000,1,0,10,10,0,2,0.3,0,0.1,10, low,35, low," ""Adds organic matter and repels pests""",Repels insectsand suppresses soilborne diseases
+potassium molybdate,inorganic,7.5,0.02,0,0,46000,0,0,0,0,0,0,0,0,0,460000,0,0,0, neutral,45, highly," ""Source of potassium and molybdenum""",Micronutrientand solubleand follow label rates to avoid toxicity
+sodium molybdate,inorganic,7.5,0,0,0,0,0,0,0,0,0,0,0,0,0,450000,0,0,391000, neutral,45, highly," ""Source of sodium and molybdenum""",Micronutrientand solubleand follow label rates to avoid toxicity
+ethylene,growth regulator,7.5,0.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,30, highly," ""Regulates fruit ripening and growth""",Gaseous plant hormoneand research application rates for specific ripening effects
+perlite,mixed,7.5,0.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,50, insoluble," ""Improves soil aeration and drainage""",Inert volcanic rockand improves drainage and aeration
+copper oxide,inorganic,7.5,0.04,0,0,0,0,0,0,750000,0,0,0,0,0,0,0,0,0, neutral,50, insoluble," ""Supplies copper for growth processes""",Insoluble in waterand use as soil amendment
+diatomaceous earth,inorganic,7.5,0.01,0,0,0,0,0,0,0,0,200,50,0,0,0,0,0,0, neutral,50, insoluble," ""Improves soil aeration and water retention""",Not a fertilizerand controls insects physicallyand avoid inhalation
+calcium carbonate,ph ec regulator,7.5,0,0,0,0,400000,0,0,0,0,0,0,0,0,0,0,0,0, neutral,50, low," ""Raises soil pH and provides calcium""",Liming materialand raises soil pHand apply according to soil test
+magnesium oxide,inorganic,7.5,0,0,0,0,0,600000,0,0,0,0,0,0,0,0,0,0,0, neutral,50, low," ""Source of magnesium for plant growth""",Magnesiaand slow-release magnesium sourceand may require soil amendments
+dolomite lime,ec regulator,7.5,0,0,0,0,200000,120000,0,0,0,0,0,0,0,0,0,0,0, neutral,50, low," ""Raises soil pH and supplies magnesium""",Liming materialand raises soil magnesium and calcium levelsand follow soil test
+magnesium citrate,inorganic,7.5,0.03,0,0,0,0,110000,0,0,0,0,0,0,0,0,0,0,0, neutral,40, medium," ""Easily absorbed magnesium source""",Chelated magnesiumand lessens soil pH impactand good for foliar application
+ammonium bicarbonate,inorganic,7.8,0.03,170000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, high,40, highly," ""Provides nitrogen for plant growth""",Solubleand use in light watering for acid-loving plants
+cobalt nitrate,inorganic,8,0.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,290,0, low,40, highly," ""Source of cobalt for enzyme function""",Micronutrientand solubleand follow label rates to avoid toxicity
+zinc chloride,inorganic,8,0,0,0,0,0,0,0,0,475000,0,0,480000,0,0,0,0,0, low,50, highly," ""Supplies zinc for enzyme activity""",Micronutrientand solubleand follow label rates to avoid toxicity
+potassium hydroxide,ph ec regulator,8,0.01,0,0,697000,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,50, highly," ""Raises soil pH and supplies potassium""",Lyeand strong baseand not recommended for fertilizer use
+cobalt oxide,inorganic,8,0.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,0, neutral,50, insoluble," ""Supplies cobalt for plant processes""",Insoluble in waterand use as soil amendment
+elemental sulfur,inorganic,8,0.03,0,0,0,0,0,1000000,0,0,0,0,0,0,0,0,0,0, neutral,45, insoluble," ""Lowers soil pH and supplies sulfur""",Slow-release sulfur sourceand apply according to soil test
+cobalt hydroxide,inorganic,8,0.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0, neutral,50, low," ""Provides cobalt for growth processes""",Insoluble in waterand use as soil amendment
+rock phosphate,inorganic,8,0.03,0,13000,0,0,0,0,1,0,0,0,0,0,0,0,0,0, neutral,50, low," ""Slow-release phosphorus source""",Insoluble phosphorus sourceand requires grinding or composting for better availability
+cobalt gluconate,inorganic,8,0.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0, neutral,40, medium," ""Easily absorbed cobalt for plants""",Micronutrientand solubleand follow label rates to avoid toxicity
+worm castings,organic,8.5,0.03,10000,2000,2000,5000,100,0,0,0,1,100,0,2,0.2,0,0.4,0, mild,35, low," ""Improves soil structure and fertility""",Castings of earthwormsand organic fertilizer rich in nutrients and microbes
+seaweed extract tea,organic,8.5,0.03,100,1000,75000,1000,0,0,2,0,2,25,0,1,0.05,0,0.1,0, neutral,35, highly," ""Quick nutrient boost from seaweed""",Made from seaweed extractand dilute before useand beneficial for soil microbes
+potassium silicate,inorganic,8.5,0.02,0,0,120000,0,0,0,0,0,0,0,0,0,0,0,0,0, neutral,50, highly," ""Supplies potassium and improves soil structure""",Soluble silicate sourceand may strengthen plant cell wallsand research application rates
+calcium hydroxide,inorganic,9,0.03,0,0,0,540000,0,0,0,0,0,0,0,0,0,0,0,0, neutral,50, low," ""Raises soil pH and supplies calcium""",Slaked limeand raises soil pHand apply according to soil test
+calcium gluconate,inorganic,12.4,0,0,0,0,93000,0,0,0,0,0,0,0,0,0,0,0,0, neutral,40, medium," ""Easily absorbed calcium source""",Soluble calcium sourceand good for correcting deficiencies

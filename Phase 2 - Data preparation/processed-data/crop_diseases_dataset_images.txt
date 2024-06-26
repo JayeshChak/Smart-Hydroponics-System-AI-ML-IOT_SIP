@@ -1,0 +1,1 @@
+download from this kaggle url : https://www.kaggle.com/datasets/sadikaljarif/crop-disease?resource=download
