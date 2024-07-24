@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fertilizer Recommendation System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Fertilizer Recommendation Form</h1>
+      <form method="POST" action="{{ url_for('fert_recommend') }}">
+        <label for="crop_name">Crop Name</label>
+        <input type="text" id="crop_name" name="crop_name" list="crop_list" placeholder="Start typing..." />
+        <datalist id="crop_list">
+          <!-- Your options will be dynamically generated here -->
+        </datalist>
+
+        <label for="growth_stage">Growth Stage</label>
+        <select id="growth_stage" name="growth_stage">
+          <option value="seeding">Seeding</option>
+          <option value="vegetative">Vegetative</option>
+          <option value="flowering">Flowering</option>
+          <option value="harvesting">Harvesting</option>
+        </select>
+
+        <label for="water_ph">Water pH</label>
+        <input type="number" id="water_ph" name="water_ph" />
+
+        <label for="water_ec">Water EC</label>
+        <input type="number" id="water_ec" name="water_ec" />
+
+        <label for="water_nitrogen">Water Nitrogen Content</label>
+        <input type="number" id="water_nitrogen" name="water_nitrogen" />
+
+        <label for="water_phosphorus">Water Phosphorus Content</label>
+        <input type="number" id="water_phosphorus" name="water_phosphorus" />
+
+        <label for="water_potassium">Water Potassium Content</label>
+        <input type="number" id="water_potassium" name="water_potassium" />
+
+        <label for="water_calcium">Water Calcium Content</label>
+        <input type="number" id="water_calcium" name="water_calcium" />
+
+        <label for="water_magnesium">Water Magnesium Content</label>
+        <input type="number" id="water_magnesium" name="water_magnesium" />
+
+        <label for="water_sulfur">Water Sulfur Content</label>
+        <input type="number" id="water_sulfur" name="water_sulfur" />
+
+        <label for="water_sulfur">Water Copper Content</label>
+        <input type="number" id="water_copper" name="water_copper" />
+
+        <label for="water_sulfur">Water Chlorine Content</label>
+        <input type="number" id="water_chlorine" name="water_chlorine" />
+
+        <label for="water_sulfur">Water Boron Content</label>
+        <input type="number" id="water_boron" name="water_boron" />
+
+        <label for="water_sulfur">Water Iron Content</label>
+        <input type="number" id="water_iron" name="water_iron" />
+
+        <label for="water_sulfur">Water Manganese Content</label>
+        <input type="number" id="water_manganese" name="water_manganese" />
+
+        <label for="water_sulfur">Water Molybdenum Content</label>
+        <input type="number" id="water_molybdenum" name="water_molybdenum" />
+
+        <label for="water_sulfur">Water Nickel Content</label>
+        <input type="number" id="water_nickel" name="water_nickel" />
+
+        <label for="water_sulfur">Water Cobalt Content</label>
+        <input type="number" id="water_cobalt" name="water_cobalt" />
+
+        <label for="water_zinc">Water Zinc Content</label>
+        <input type="number" id="water_zinc" name="water_zinc" />
+
+        <label for="water_sodium">Water Sodium Content</label>
+        <input type="number" id="water_sodium" name="water_sodium" />
+
+        <input type="submit" value="Submit" />
+      </form>
+    </div>
+    
+    <script>
+      // JavaScript to populate the datalist with crop options
+      const cropInput = document.getElementById("crop_name");
+      const cropList = document.getElementById("crop_list");
+      const crops = [
+        "aloevera",
+        "armeniancucumbers",
+        "arugula",
+        "ashwagandha",
+        "babyeggplant",
+        "babyspinach",
+        "baylaurel",
+        "bayleaf",
+        "beechmushrooms",
+        "beefsteaktomatoes",
+        "beetgreens",
+        "beetroot",
+        "bergamot",
+        "bibbutterheadlettuce",
+        "blackberries",
+        "blackpepper",
+        "blueberries",
+        "bokchoy",
+        "borage",
+        "bostonbutterheadlettuce",
+        "brusselssprouts",
+        "cabbage",
+        "calabresebroccoli",
+        "calendula",
+        "canarymelons",
+        "cantaloupe",
+        "capsicum",
+        "cardamom",
+        "carrot",
+        "catnip",
+        "cauliflower",
+        "cayenne",
+        "celery",
+        "chamomile",
+        "chestnutmushrooms",
+        "chinesebroccoli",
+        "chioggiabeets",
+        "chives",
+        "chocolatemint",
+        "cilantro",
+        "cinnamon",
+        "clove",
+        "colocasiaroot",
+        "coralmushrooms",
+        "coriander",
+        "corianderleaf",
+        "creminimushrooms",
+        "cucamelon",
+        "cucumisutilissimus",
+        "curlykale",
+        "curlyparsley",
+        "daikonradishes",
+        "daylilies",
+        "dianthus",
+        "dill",
+        "echinacea",
+        "endive",
+        "englishseedlesscucumber",
+        "enokimushrooms",
+        "fennel",
+        "fenugreek",
+        "fenugreekleaves",
+        "feverfew",
+        "flatleafparsley",
+        "frenchbeans",
+        "frenchbreakfastradishes",
+        "frenchsorrel",
+        "frenchthyme",
+        "friseemustardgreens",
+        "gailan",
+        "galiamelon",
+        "ginger",
+        "ginseng",
+        "goldenbeets",
+        "grapes",
+        "greenbellpeppers",
+        "greenbushbeans",
+        "greencherrytomatoes",
+        "greenchili",
+        "greenleaflettuce",
+        "groundcherries",
+        "habanero",
+        "hibiscus",
+        "honeydewmelon",
+        "hops",
+        "huskcherries",
+        "iceberglettuce",
+        "indigo",
+        "jalapeno",
+        "japaneseeggplant",
+        "jerusalemartichokes",
+        "kingoystermushrooms",
+        "kirbycucumbers",
+        "kiwi",
+        "kohlrabi",
+        "lacinatokale",
+        "ladysfinger",
+        "lavender",
+        "lavendercotton",
+        "lemonbalm",
+        "lemonbasil",
+        "lemongrass",
+        "lemonthyme",
+        "lionsmanemushrooms",
+        "lollorossolettuce",
+        "lovage",
+        "luffagourd",
+        "maca",
+        "mache",
+        "maitakemushrooms",
+        "malabarspinach",
+        "marigolds",
+        "marjoram",
+        "minicucumbers",
+        "miniwatermelon",
+        "mizuna",
+        "muskmelon",
+        "mustardseeds",
+        "nasturtiumsflower",
+        "nigella",
+        "okra",
+        "oregano",
+        "pakchoi",
+        "pansies",
+        "parsnips",
+        "passionflower",
+        "passionfruit",
+        "patchouli",
+        "pepinomelon",
+        "peppermint",
+        "persiancucumbers",
+        "pinkoystermushrooms",
+        "pioppinomushrooms",
+        "plumtomatoes",
+        "pointedgourd",
+        "potato",
+        "radicchio",
+        "radish",
+        "raspberries",
+        "redbellpeppers",
+        "redcherrytomatoes",
+        "redchili",
+        "redmustardgreens",
+        "redromainelettuce",
+        "rockmelon",
+        "romainelettuce",
+        "romanesco",
+        "roma",
+        "rosemary",
+        "rutabaga",
+        "saffron",
+        "sage",
+        "salsify",
+        "scorzonera",
+        "shiitake",
+        "shiso",
+        "snapbushpeas",
+        "snowpeas",
+        "sorrel",
+        "spearmint",
+        "spinach",
+        "spongegourd",
+        "stevia",
+        "strawberries",
+        "sugarsnappeas",
+        "sweetbasil",
+        "sweetpotato",
+        "swisschard",
+        "taro",
+        "tarragon",
+        "tatsoi",
+        "teatree",
+        "tendli",
+        "thaibasil",
+        "tomatillos",
+        "turmeric",
+        "turnip",
+        "turnips",
+        "uplandcress",
+        "violas",
+        "violets",
+        "wasabi",
+        "watercress",
+        "watermelon",
+        "waxgourd",
+        "whitebuttonmushrooms",
+        "witchhazel",
+        "yellowbellpeppers",
+        "yellowcherrytomatoes",
+        "yellowsquash",
+        "zucchini",
+      ];
+
+      crops.forEach((crop) => {
+        const option = document.createElement("option");
+        option.value = crop.toLowerCase().replace(/\s/g, "");
+        cropList.appendChild(option);
+      });
+    </script>
+  </body>
+</html>

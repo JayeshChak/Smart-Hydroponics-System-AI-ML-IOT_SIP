@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fertilizer Recommendation Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Fertilizer Recommendation Result</h1>
+        <h3>Recommended Fertilizers:</h3>
+        
+        {% if recommendation.error %}
+            <p>{{ recommendation.error }}</p>
+        {% else %}
+            <h4>Nutrient Deficiencies:</h4>
+            {% if recommendation.deficiency_fertilizers %}
+                <ul>
+                    {% for fert in recommendation.deficiency_fertilizers %}
+                        <li>{{ fert.fert_name }} (Type: {{ fert.fert_type }})</li>
+                    {% endfor %}
+                </ul>
+            {% else %}
+                <p>No deficiencies found.</p>
+            {% endif %}
+
+            <h4>pH Stabilizer:</h4>
+            {% if recommendation.ph_stabilizer %}
+                <p>{{ recommendation.ph_stabilizer.fert_name }}</p>
+            {% else %}
+                <p>No pH stabilizer recommended.</p>
+            {% endif %}
+
+            <h4>EC Balancer:</h4>
+            {% if recommendation.ec_balancer %}
+                <p>{{ recommendation.ec_balancer.fert_name }}</p>
+            {% else %}
+                <p>No EC balancer recommended.</p>
+            {% endif %}
+
+            <h4>Growth Regulator:</h4>
+            {% if recommendation.growth_regulator %}
+                <p>{{ recommendation.growth_regulator.fert_name }}</p>
+            {% else %}
+                <p>No growth regulator recommended.</p>
+            {% endif %}
+        {% endif %}
+    </div>
+</body>
+</html>

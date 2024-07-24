@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Predict Crop</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/style.css') }}"
+    />
+  </head>
+  <body>
+    <h1>Predict Crop</h1>
+    <form method="POST" action="{{ url_for('crop_prediction') }}">
+      <label for="water_temp">Water Temperature:</label>
+      <input type="text" id="water_temp" name="water_temp" /><br /><br />
+
+      <label for="humidity">Humidity:</label>
+      <input type="text" id="humidity" name="humidity" /><br /><br />
+
+      <label for="water_ph">Water pH:</label>
+      <input type="text" id="water_ph" name="water_ph" /><br /><br />
+
+      <label for="water_ec">Water EC:</label>
+      <input type="text" id="water_ec" name="water_ec" /><br /><br />
+
+      <label for="water_nitrogen">Water Nitrogen:</label>
+      <input
+        type="text"
+        id="water_nitrogen"
+        name="water_nitrogen"
+      /><br /><br />
+
+      <label for="water_phosphorus">Water Phosphorus:</label>
+      <input
+        type="text"
+        id="water_phosphorus"
+        name="water_phosphorus"
+      /><br /><br />
+
+      <label for="water_potassium">Water Potassium:</label>
+      <input
+        type="text"
+        id="water_potassium"
+        name="water_potassium"
+      /><br /><br />
+
+      <label for="water_calcium">Water Calcium:</label>
+      <input type="text" id="water_calcium" name="water_calcium" /><br /><br />
+
+      <label for="water_magnesium">Water Magnesium:</label>
+      <input
+        type="text"
+        id="water_magnesium"
+        name="water_magnesium"
+      /><br /><br />
+
+      <label for="water_zinc">Water Zinc:</label>
+      <input type="text" id="water_zinc" name="water_zinc" /><br /><br />
+
+      <label for="water_sodium">Water Sodium:</label>
+      <input type="text" id="water_sodium" name="water_sodium" /><br /><br />
+
+      <label for="light">Sunlight:</label>
+      <input type="text" id="light" name="light" /><br /><br />
+
+      <button type="submit">Predict Crop</button>
+    </form>
+  </body>
+</html>
+  

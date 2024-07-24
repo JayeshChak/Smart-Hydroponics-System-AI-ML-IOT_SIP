@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Disease Prediction Result</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/bootstrap.min.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/style.css') }}"
+    />
+    <style>
+      body {
+        background-color: rgb(206, 206, 228);
+        text-align: center;
+        padding-top: 50px;
+      }
+
+      .container {
+        max-width: 600px;
+        margin: 0 auto;
+        background: #fff;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+      }
+
+      .container img {
+        max-width: 100%;
+        height: auto;
+        margin-bottom: 20px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <img src="{{ image_url }}" alt="Plant Image" />
+      <h2>Disease Prediction Result</h2>
+      <div
+        class="card card-body"
+        style="justify-content: center; background-color: blanchedalmond"
+      >
+        <p class="text-center" style="color: black; font-size: 22px">
+          {{ predicted_disease }}
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
